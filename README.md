@@ -32,7 +32,7 @@ This end-to-end solution was built using the following AWS tools:
 
 ## 🧱 Architecture Overview
 
-![Architecture Diagram](images/sdl_architecture.jpg)
+![Architecture Diagram](images/sdl_architecture1.jpg)
 <!-- Replace with your actual image path or link -->
 
 ---
