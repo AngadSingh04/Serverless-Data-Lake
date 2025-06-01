@@ -40,7 +40,7 @@ This end-to-end solution was built using the following AWS tools:
 ## ✍️ Read More
 
 📖 For detailed steps and insights, check out my blog on Medium:  
-👉 [Read the full article on Medium](https://your-medium-post-link.com)
+👉 [Read the full article on Medium](https://medium.com/@singh04angad/serverless-data-lake-74fc4a2c18c3)
 <!-- Replace with your actual Medium URL -->
 
 ---
